@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218733139683",
+    "project_id": "activity04phone",
+    "storage_bucket": "activity04phone.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218733139683:android:2aec1ef43e3e801db217d6",
+        "android_client_info": {
+          "package_name": "com.example.activity04phone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy4MEoK9lWkQRaCh70zJH4ay3XnmMcrvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

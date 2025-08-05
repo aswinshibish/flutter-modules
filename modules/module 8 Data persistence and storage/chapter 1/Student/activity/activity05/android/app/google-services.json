@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "379873382884",
+    "project_id": "activity05-fb90c",
+    "storage_bucket": "activity05-fb90c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379873382884:android:250022ca512203006237f1",
+        "android_client_info": {
+          "package_name": "com.example.activity05"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO1LhQaV6BPH0TB-sNjEah_PKhuc2k9Ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890023802172",
+    "project_id": "bloodfire-66030",
+    "storage_bucket": "bloodfire-66030.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890023802172:android:0088615e6929b04e18da39",
+        "android_client_info": {
+          "package_name": "com.example.myauthenticat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbuD5s_5I4ZTOTkSnWOTRoUJMAy5pIUFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547941860053",
+    "project_id": "newautentication-8334e",
+    "storage_bucket": "newautentication-8334e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547941860053:android:5b46c734b2e6e1a10a585c",
+        "android_client_info": {
+          "package_name": "com.example.newauthenticat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXdTwfyJYNS89jIlK6lp0_oLfb9Ze8bDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+D:/Flutter-Batch-03/module 7 Packages and Plugins/student/workshops/workshop2/android/app/.cxx/Debug/3r1w656b/x86_64/CMakeFiles/edit_cache.dir
+D:/Flutter-Batch-03/module 7 Packages and Plugins/student/workshops/workshop2/android/app/.cxx/Debug/3r1w656b/x86_64/CMakeFiles/rebuild_cache.dir
